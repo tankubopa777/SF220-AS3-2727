@@ -1,0 +1,36 @@
+body {
+  background-color: #FCEBB6
+}
+#colorfullmain {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px black;
+  margin: 20px;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF ;
+  background-color: #cccccc ;
+  text-align: center ;
+  width: 90% ;
+  margin-left: auto ;
+  margin-right: auto ; 
+}
+#lastword {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px black;
+  margin: 20px;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF ;
+  background-color: #cccccc ;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+  
+  
+}
+#menuchoice {
+
+}
